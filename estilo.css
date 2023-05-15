@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.red {
+width: 4%;
+height: 100%;
+background: red;
+}
+
+.green {
+width: 4%;
+height: 100%;
+background: green;
+}
+
+.blue {
+width: 4%;
+height: 100%;
+background: blue;
+}
